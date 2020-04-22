@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32050c4e51a40fce4c5d",
-    "url": "/css/app.f5ec0900.css"
+    "revision": "311634bfc6e97272dbca",
+    "url": "/css/app.7131a33b.css"
   },
   {
-    "revision": "e220dba4d2c7985e436c",
+    "revision": "1dea4955fe797db3045a",
     "url": "/css/chunk-vendors.2f78781b.css"
   },
   {
@@ -76,6 +76,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/800x800/mocha.jpg"
   },
   {
+    "revision": "16a3fff399dc4d27013baa86b9098f72",
+    "url": "/img/DUNG_PHAM_CV.pdf"
+  },
+  {
     "revision": "b439bde49fd17182d021c960329ce2f7",
     "url": "/img/avatar.jpg"
   },
@@ -104,16 +108,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/web.png"
   },
   {
-    "revision": "4323e420f5597510d423e074553696e3",
+    "revision": "18cd33a1a2c6f4198dd9ff03f54695c5",
     "url": "/index.html"
   },
   {
-    "revision": "32050c4e51a40fce4c5d",
-    "url": "/js/app.c816cc25.js"
+    "revision": "311634bfc6e97272dbca",
+    "url": "/js/app.5ae360a7.js"
   },
   {
-    "revision": "e220dba4d2c7985e436c",
-    "url": "/js/chunk-vendors.0e39bc86.js"
+    "revision": "1dea4955fe797db3045a",
+    "url": "/js/chunk-vendors.8aefcaec.js"
   },
   {
     "revision": "e9c64afa3ba880d029de24ba203ebfca",
