@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b4f26d8be206a3c1b538",
-    "url": "/css/app.2e583cfe.css"
+    "revision": "0ea71a8e3ee85120952f",
+    "url": "/css/app.2f977306.css"
   },
   {
     "revision": "62387e0761415f7845a6",
@@ -76,11 +76,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/800x800/mocha.jpg"
   },
   {
+    "revision": "33e33595b7c8f1277281e3bf9a05ea6b",
+    "url": "/img/AdRunner_v2.png"
+  },
+  {
     "revision": "ab90556526980f57ae79b88981251512",
     "url": "/img/DUNG_CV.pdf"
   },
   {
-    "revision": "b0a59186b81d38217514a5ad4e1b86a5",
+    "revision": "3a96653a88d0de95bcb3fbf853a50908",
     "url": "/img/DUNG_PHAM_CV.pdf"
   },
   {
@@ -112,12 +116,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/web.png"
   },
   {
-    "revision": "501863f82139b1d42ccd2d18e1c6b2f0",
+    "revision": "1d204e376ed06551ecbf0723211831c2",
     "url": "/index.html"
   },
   {
-    "revision": "b4f26d8be206a3c1b538",
-    "url": "/js/app.0a5d4014.js"
+    "revision": "0ea71a8e3ee85120952f",
+    "url": "/js/app.1153b5a1.js"
   },
   {
     "revision": "62387e0761415f7845a6",
